@@ -2,6 +2,10 @@
 
 A minimalist inline editing data table built with htmx and Express. This project is a part of my "Frameworks Mini Projects" where I'm trying and getting to know minimalist frameworks.
 
+## Live Demo
+
+[Render - Inline Edit Table](https://inline-edit-table.onrender.com/)
+
 ## Features
 
 - **Inline Row Editing**
